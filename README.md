@@ -124,8 +124,8 @@ Built a professional three-page interactive dashboard with filters and drill-dow
 
 ## 👩‍💻 Author
 
-**Aswathi M**
-Computer Science Graduate | Data Analyst | Power BI | SQL | Python | Data Visualization | Business Analytics
+**Chinmay Kulkarni**
+B.Tech (Information Technology) | Data Analyst | Power BI | SQL | Python | Data Visualization | Business Analytics
 
 
 
